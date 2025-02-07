@@ -1,1 +1,1 @@
-#Simple Document Analyzer using Deepseek Locally
+# Simple Document Analyzer using Deepseek Locally
